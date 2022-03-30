@@ -1,4 +1,5 @@
-                                                              Конспект
+                                                                          Конспект
+                                                                          https://classroom.google.com/u/0/c/NDgwMjE2MjY1MDU0
 cd- переход по дерикторії
 ls- перегляд дерикторії
 git init Перегляд шляху
